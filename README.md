@@ -41,20 +41,7 @@ If the installation was successful, you should be able to run the following comm
     $ npm --version
     6.1.0
 
-## Install
 
+## Running the project 
     $ git clone https://github.com/YOUR_USERNAME/PROJECT_TITLE
-    $ cd Message_generator
-    $ yarn install
-
-## Configure app
-
-Open `a/nice/path/to/a.file` then edit it with your settings. You will need:
-
-- A setting;
-- Another setting;
-- One more setting;
-
-## Running the project
-
-    $ yarn start
+    $ node index.js
