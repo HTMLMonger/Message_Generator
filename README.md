@@ -43,5 +43,6 @@ If the installation was successful, you should be able to run the following comm
 
 
 ## Running the project 
-    $ git clone https://github.com/YOUR_USERNAME/PROJECT_TITLE
+    $ git clone https://github.com/HTMLMonger/Message_Generator
+    $ cd Message_Generator
     $ node index.js
